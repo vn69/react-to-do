@@ -44,4 +44,6 @@ code {
 
 .input-wrap > input {
   flex-grow: 1;
+  padding: 5px 10px;
+  padding-left: 18px;
 }
